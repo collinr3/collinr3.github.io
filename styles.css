@@ -1,0 +1,27 @@
+h1 {
+  color:blue;
+  text-align:right;
+}
+p {
+  color:red;
+}
+DIV.top {
+  background-color: teal;
+  height: 100px;
+  margin: 30px;
+  padding: 30px;
+  font-family:Courier, sans-serif;
+  border: 5px dashed red
+
+}
+table {
+  width: 50%;
+  border-collapse: collapse;
+}
+th, td{
+    border: 4px solid green;
+    text-align: center;
+  }
+  th {
+    background-color: lightgrey;
+  }
