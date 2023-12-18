@@ -267,7 +267,7 @@ can access the website.
 
 ## Troubleshooting
 
-A useful source of information, should you encounter problems when accessing the website e.gg. `500 errors`, `400 errors` etc. is to look in the `stderr.log` in the `document root` directory.
+A useful source of information, should you encounter problems when accessing the website e.g. `500 errors`, `400 errors` etc. is to look in the `stderr.log` in the `document root` directory.
 
 After that - it's Stackoverflow, Google etc.
 
