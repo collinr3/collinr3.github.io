@@ -1,3 +1,3 @@
-# collinr3.github.io
-My GitHub Pages
-This is a code practice site
+# My GitHub Pages
+
+ - [Deploying Django in cPanel](django_in_cpanel.md)
