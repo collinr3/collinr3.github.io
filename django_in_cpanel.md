@@ -230,7 +230,7 @@ Type ‘yes’ if prompted
 
 After a while you will see something like:
 
-132 static files copied to '/home/<username>/<document root>/static'`
+`132 static files copied to '/home/<username>/<document root>/static'`
 
 ## Connecting the Python app to the Django project
 
