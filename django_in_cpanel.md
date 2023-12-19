@@ -309,7 +309,7 @@ BASE_DIR = os.path.dirname(PROJECT_DIR)
 # Used for cPanel deployments into main domain
 PUBLIC_HTML = os.path.expanduser("~/public_html")
 
-STATIC_ROOT = os.path.join(PUBLIC_HTML, "static")
+STATIC_ROOT = os.path.join(BASE_DIR, "static")
 STATIC_URL = "/static/"
 
 MEDIA_ROOT = os.path.join(PUBLIC_HTML, "media")
