@@ -47,8 +47,8 @@ Use the following field values:
 - Python version: _3.8.n_ (choose the latest 3.8 version available from the drop-down list)
 - Application root: the document root for your subdomain
 - Application URL: choose the url for your subdomain, from the drop-down
-- Application startup file: `application`
-- Application Entry point: `passenger_wsgi.py`
+- Application startup file: `passenger_wsgi.py`
+- Application Entry point: `application`
 
 Click on `CREATE`
 
