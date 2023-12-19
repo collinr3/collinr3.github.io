@@ -1,5 +1,8 @@
 # Deploying Django in cPanel
 
+created: 2023/12/18
+last updated: 2023/12/19
+
 A guide for deploying a Django project into a cPanel shared environment. These steps outline my general approach to
 deploying into a subdomain. Additional information is given at the end for publishing into the main domain.
 
